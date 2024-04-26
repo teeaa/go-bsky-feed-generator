@@ -115,9 +115,8 @@ func main() {
 
 	// Plug in Authentication Middleware
 	auther, err := auth.NewAuth(
-		10000,
-		time.Hour*1,
-		"https://plc.directory",
+		100_000,
+		time.Hour*12,
 		5,
 		serviceWebDID,
 	)
