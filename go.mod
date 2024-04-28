@@ -7,7 +7,7 @@ toolchain go1.22.2
 require (
 	github.com/bluesky-social/indigo v0.0.0-20240425170844-efe2ce5ca2e1
 	github.com/ericvolp12/go-gin-prometheus v0.0.0-20221219081010-fc0e0436c283
-	github.com/ericvolp12/jwt-go-secp256k1 v0.0.1
+	github.com/ericvolp12/jwt-go-secp256k1 v0.0.2
 	github.com/gin-gonic/gin v1.9.1
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/hashicorp/golang-lru/arc/v2 v2.0.7
