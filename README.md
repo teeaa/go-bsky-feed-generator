@@ -1,6 +1,9 @@
 # go-bsky-feed-generator
 A minimal implementation of a BlueSky Feed Generator in Go
 
+## Official documentation
+
+https://docs.bsky.app/docs/starter-templates/custom-feeds
 
 ## Requirements
 
